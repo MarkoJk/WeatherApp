@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#EEECEC</color>
+
+    <color name="primary">#AD01B366</color>
+    <color name="primary_variant">#D201B366</color>
+</resources>

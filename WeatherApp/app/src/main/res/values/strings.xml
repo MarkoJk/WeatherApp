@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="search_title">Search city</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="location_rationale_message">Location permission is needed in order to find your current city</string>
+    <string name="temp_representation_in_celsius">%d\u2103</string>
+    <string name="feels_temp_representation_in_celsius">Feels like %d\u2103</string>
+    <string name="temp_not_founded">There is no information about temperature for %s</string>
+    <string name="humidity_title">Humidity</string>
+    <string name="wind_title">Wind</string>
+    <string name="humidity_representation_in_percent">%d%%</string>
+    <string name="wind_representation_in_kmh">%.2fkm/h</string>
+</resources>
